@@ -17,3 +17,9 @@ Here are some suggested challenges to try after practicing with the class:
 * Can you change all text colors to _green_?
 * Can you add `text-shadow` to all text?
 * Can you center all the text using `text-align`?
+
+
+.myClass {
+      background-color: gray;
+      color: blue
+    }
